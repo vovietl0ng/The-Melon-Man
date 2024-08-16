@@ -80,3 +80,5 @@ game.keyup = function (event) {
 			break
 		}
 }
+
+
